@@ -1,0 +1,36 @@
+body {
+  background-color: #DAEDFF;
+  text-align: left;
+  margin-left: 10%;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #373B40;
+}
+
+h2 {
+  color: #373B40;
+}
+
+h3 {
+  color: #475C7F;
+  font-weight: bold;
+}
+
+.main-body {
+  margin-left: 5%;
+}
+
+.entries {
+  margin-left: 3%;
+}
+
+.detail {
+  color: #373B40;
+  font-style: italic;
+}
+
+.result {
+  font-weight: bold;
+}
